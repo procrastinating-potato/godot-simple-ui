@@ -1,3 +1,3 @@
 # godot-simple-ui
 
-Simple UI Components
+Simple Godot UI Components
